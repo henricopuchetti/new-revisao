@@ -1,0 +1,25 @@
+/* Smartphone Portrait */
+
+body {
+    background-color: #ffffff;
+}
+
+/* Smartphone Landscape */ 
+@media (min-width: 576px) {
+    
+}
+
+/* Tablet Portrait */ 
+@media (min-width: 768px) {
+    
+}
+
+/* Tablet Landscape */ 
+@media (min-width: 992px) {
+
+}
+
+/* Notebooks/PCs/SmartTV */ 
+@media (min-width: 1200px) {
+    
+}
